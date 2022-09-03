@@ -1,0 +1,8 @@
+streamlit
+typing_extensions
+numpy
+pandas
+folium
+streamlit-folium
+opencv-python
+pyzbar
